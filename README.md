@@ -66,6 +66,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [UN Data](https://data.un.org/) – Global economic and social indicators.
 - [Open Economic Data](https://openeconomicdata.org/) – Index of open economic datasets.
 - [Eulerpool](https://eulerpool.com/developers) – Financial data API with macroeconomic series from FRED, ECB, IMF, World Bank, Eurostat, OECD and BIS.
+- [The Trade Economy Index](https://tradesindex.org) - Open economic dataset normalizing 9,084,887 US commercial buildings, 241,694 municipal permits ($76.1B), and BLS QCEW wage/employment series across 366 MSAs ([GitHub](https://github.com/levelcfo/trade-economy-index-data) | [Calculator](https://levelcfo.com/tools/building-value-calculator/)).
 
 ## Computational Economics
 
